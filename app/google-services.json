@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "710220497357",
+    "firebase_url": "https://cloudparking-686ab.firebaseio.com",
+    "project_id": "cloudparking-686ab",
+    "storage_bucket": "cloudparking-686ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710220497357:android:ecadcdb6d7a2c7e9",
+        "android_client_info": {
+          "package_name": "com.example.shreshth.cloudparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710220497357-h7vh2bd73cjlhakhkkk2bnm5ofbkve2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shreshth.cloudparking",
+            "certificate_hash": "beca688649590a3820d0b0490ae7961f58a970f6"
+          }
+        },
+        {
+          "client_id": "710220497357-8aivl86njod724q0qrbl5ecan74gfebt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUvitvX991bf1JFpPx-B9hOxvSIe6efSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710220497357-8aivl86njod724q0qrbl5ecan74gfebt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
